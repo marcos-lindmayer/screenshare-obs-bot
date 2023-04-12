@@ -40,6 +40,8 @@ Set OBS' scene to the current Discord user that is both talking and screensharin
 
 6. Open `listen.js`. Adjust `const whitelist` to match your scenes' names.
 
+7. Open `interactionCreate.js`.  Adjust `interaction.user.username` conditional to match your Discord name.
+
 
 ## Usage
 
